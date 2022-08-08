@@ -15,7 +15,6 @@ Wumpgram is a messaging app that uses **Telegram's API**.
 └ [Beta Releases](<http://t.me/WumpGramBeta>)
 
 ## 🆕 Features
-• Completely custom language for italian version of the client
 • New UI for profiles  
 • View Admins, Admin Permissions and Group Permissions  
 • Granular Permissions (Send Stickers, Send GIFs, Send Animated Games, Use Inline Bots)  
@@ -42,7 +41,8 @@ Wumpgram is a messaging app that uses **Telegram's API**.
 • In-App Updates  
 • Test Backend  
 • Playback Speed for audio files shorter than 20 minutes  
-• Side Menu Customization  
+• Side Menu Customization
+• Custom sounds (From TG ones to Discord's!)
 • And more...
 
 ## ✏️ Credits
